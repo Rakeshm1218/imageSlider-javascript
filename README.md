@@ -12,7 +12,7 @@ A responsive image slider with smooth transitions and navigation controls, built
 
 
 ## Demo
-![Image Slider Demo](path-to-demo-image.gif)
+![Image Slider Demo](https://rakeshm1218.github.io/responsive-imageSlider-javascript/)
 
 ## Author
 - ![Rakesh M](https://github.com/Rakeshm1218)
